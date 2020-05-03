@@ -13,7 +13,7 @@ namespace GitWebapi.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-         "hai hai ",   "OM Namasivayya", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+         "OM OMOM",   "OM Namasivayya", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
